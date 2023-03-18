@@ -517,7 +517,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.cde.dev.neo.onl\/"
+                         "value":"https:\/\/code.cde.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -549,7 +549,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.mlu.dev.neo.onl\/"
+                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -581,7 +581,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.mre.dev.neo.onl\/"
+                         "value":"https:\/\/code.mre.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -613,7 +613,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.dke.dev.neo.onl\/"
+                         "value":"https:\/\/code.dke.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -645,7 +645,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.kzo.dev.neo.onl\/"
+                         "value":"https:\/\/code.kzo.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -677,7 +677,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.rva.dev.neo.onl\/"
+                         "value":"https:\/\/code.rva.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -709,7 +709,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.swi.dev.neo.onl\/"
+                         "value":"https:\/\/code.swi.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -741,7 +741,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/auth.mlu.dev.neo.onl\/"
+                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
                         }],
                  "rotation":0,
                  "type":"area",
