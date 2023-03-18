@@ -549,7 +549,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
+                         "value":"https:\/\/code.kfr.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
