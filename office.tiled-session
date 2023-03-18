@@ -5,17 +5,18 @@
     "fileStates": {
         "conference.tmj": {
             "expandedGroupLayers": [
-                58
+                58,
+                52
             ],
             "expandedObjectLayers": [
                 2,
                 61
             ],
-            "scale": 0.675390625,
+            "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 384.2220936957779,
-                "y": 42.19780219780216
+                "x": 259.25,
+                "y": 101.25
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -59,8 +60,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 504.25,
-                "y": 240.25
+                "x": -51.25,
+                "y": 399.75
             }
         },
         "map.tmj#WA_Decoration": {

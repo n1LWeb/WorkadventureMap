@@ -518,6 +518,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.cde.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open CDE Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -540,6 +550,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.mlu.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open KFR Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -562,6 +582,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.mre.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open MRE Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -584,6 +614,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.dke.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open DKE Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -606,6 +646,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.kzo.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open KZO Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -628,6 +678,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.rva.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open RVA Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -650,6 +710,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.swi.dev.neo.onl\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open SWI Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
