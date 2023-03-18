@@ -1,5 +1,5 @@
 {
-    "activeFile": "",
+    "activeFile": "map.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -52,8 +52,8 @@
         },
         "map.tmj": {
             "expandedGroupLayers": [
-                52,
-                58
+                58,
+                52
             ],
             "expandedObjectLayers": [
                 2
@@ -61,7 +61,7 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 405.25,
+                "x": 538.25,
                 "y": 250.75
             }
         },
@@ -97,10 +97,11 @@
         }
     },
     "openFiles": [
+        "map.tmj"
     ],
     "project": "office.tiled-project",
     "recentFiles": [
-        "conference.tmj",
-        "map.tmj"
+        "map.tmj",
+        "conference.tmj"
     ]
 }
