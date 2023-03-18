@@ -438,11 +438,6 @@
                          "value":"ChillZone"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -487,11 +482,6 @@
                          "value":"MeetingRoom"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -528,16 +518,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.cde.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onenter"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -560,16 +540,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.mlu.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onenter"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -592,16 +562,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.mre.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -624,16 +584,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.dke.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -656,16 +606,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.kzo.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -688,16 +628,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.rva.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -720,16 +650,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.swi.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -752,16 +672,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/code.mlu.dev.neo.onl\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
                  "type":"area",

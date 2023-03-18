@@ -343,11 +343,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -370,16 +365,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/app.conceptboard.com\/board\/y8on-do5k-3agd-64s8-1r7m"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open Concept Board"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -472,7 +457,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":22,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
