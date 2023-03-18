@@ -1,0 +1,98 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "conference.tmj": {
+            "expandedGroupLayers": [
+                58
+            ],
+            "expandedObjectLayers": [
+                2,
+                61
+            ],
+            "scale": 0.675390625,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 384.2220936957779,
+                "y": 42.19780219780216
+            }
+        },
+        "conference.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "conference.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "map.tmj": {
+            "expandedGroupLayers": [
+                58
+            ],
+            "scale": 0.522883064516129,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 496.2868710237132,
+                "y": 337.55157123578186
+            }
+        },
+        "map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "office.tiled-project",
+    "recentFiles": [
+    ]
+}

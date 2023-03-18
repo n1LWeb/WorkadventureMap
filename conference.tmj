@@ -335,7 +335,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":320,
                  "id":18,
                  "name":"jitsiConference",
@@ -351,13 +350,13 @@
                          "value":"onaction"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":219.090909090909,
                  "x":32,
                  "y":96
                 }, 
                 {
-                 "class":"area",
                  "height":71.612250966399,
                  "id":19,
                  "name":"website",
@@ -370,7 +369,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ websiteURL }}}"
+                         "value":"https:\/\/app.conceptboard.com\/board\/y8on-do5k-3agd-64s8-1r7m"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -380,9 +379,10 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
+                         "value":"Press SPACE to open Concept Board"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":256,
@@ -398,40 +398,7 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[
-                {
-                 "class":"variable",
-                 "height":0,
-                 "id":20,
-                 "name":"websiteURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":304.52245019328,
-                 "y":62.873476063039
-                }],
+         "objects":[],
          "opacity":1,
          "properties":[
                 {
@@ -534,7 +501,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -679,6 +646,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":24
 }
