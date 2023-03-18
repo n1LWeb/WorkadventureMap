@@ -636,7 +636,7 @@
                          "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":63.5,
                  "x":384.5,
@@ -668,7 +668,7 @@
                          "value":"Press SPACE to open Dev Environment"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":62,
                  "x":577.5,

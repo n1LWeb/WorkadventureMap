@@ -59,8 +59,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 489.75,
-                "y": 276.25
+                "x": 300.75,
+                "y": 274.75
             }
         },
         "map.tmj#WA_Decoration": {
@@ -98,5 +98,6 @@
     ],
     "project": "office.tiled-project",
     "recentFiles": [
+        "map.tmj"
     ]
 }
