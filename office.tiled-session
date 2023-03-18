@@ -12,7 +12,7 @@
                 61
             ],
             "scale": 0.675390625,
-            "selectedLayer": 15,
+            "selectedLayer": 16,
             "viewCenter": {
                 "x": 384.2220936957779,
                 "y": 42.19780219780216
@@ -52,11 +52,11 @@
             "expandedGroupLayers": [
                 58
             ],
-            "scale": 0.522883064516129,
-            "selectedLayer": 2,
+            "scale": 2,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 496.2868710237132,
-                "y": 337.55157123578186
+                "x": 36.75,
+                "y": 584.75
             }
         },
         "map.tmj#WA_Decoration": {
