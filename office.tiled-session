@@ -6,21 +6,22 @@
     "fileStates": {
         "conference.tmj": {
             "expandedGroupLayers": [
-                52,
-                58
+                58,
+                52
             ],
             "expandedObjectLayers": [
-                2,
-                61
+                61,
+                2
             ],
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 344.75,
-                "y": 100.75
+                "x": 343.5,
+                "y": 100.25
             }
         },
         "conference.tmj#WA_Decoration": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "conference.tmj#WA_Exterior": {
@@ -61,9 +62,14 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 538.25,
-                "y": 250.75
+                "x": 610,
+                "y": 152.25
             }
+        },
+        "map.tmj#Icons": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -96,6 +102,7 @@
             "scaleInDock": 1
         }
     },
+    "last.imagePath": "C:/Users/n1LWe/Pictures",
     "openFiles": [
         "map.tmj"
     ],
@@ -103,5 +110,7 @@
     "recentFiles": [
         "map.tmj",
         "conference.tmj"
-    ]
+    ],
+    "tileset.embedInMap": true,
+    "tileset.type": 1
 }
