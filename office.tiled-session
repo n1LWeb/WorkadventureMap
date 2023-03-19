@@ -9,8 +9,8 @@
         },
         "conference.tmj": {
             "expandedGroupLayers": [
-                52,
-                58
+                58,
+                52
             ],
             "expandedObjectLayers": [
                 61,
@@ -56,8 +56,8 @@
         },
         "map.tmj": {
             "expandedGroupLayers": [
-                52,
-                58
+                58,
+                52
             ],
             "expandedObjectLayers": [
                 2
@@ -65,8 +65,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 802,
-                "y": 105.75
+                "x": 492,
+                "y": 512.25
             }
         },
         "map.tmj#Icons": {
@@ -112,6 +112,7 @@
         "conference.tmj"
     ],
     "project": "office.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "conference.tmj",
         "map.tmj"
