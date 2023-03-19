@@ -819,7 +819,7 @@
                  "text":
                     {
                      "halign":"right",
-                     "text":"202303192220",
+                     "text":"202303192224",
                      "wrap":true
                     },
                  "type":"",
@@ -871,6 +871,28 @@
                  "width":66.5,
                  "x":30.5,
                  "y":256.5
+                }, 
+                {
+                 "height":64.5,
+                 "id":35,
+                 "name":"graph",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.n1l.eu\/user\/pages\/03.fileshare\/graph.png"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":896,
+                 "y":510
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -953,7 +975,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":35,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
