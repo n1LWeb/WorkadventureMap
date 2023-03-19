@@ -4,6 +4,9 @@
         "."
     ],
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "conference.tmj": {
             "expandedGroupLayers": [
                 58,
@@ -16,7 +19,7 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 427.5,
+                "x": 427,
                 "y": 117.75
             }
         },
@@ -60,9 +63,9 @@
                 2
             ],
             "scale": 2,
-            "selectedLayer": 15,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 480.5,
+                "x": 480,
                 "y": 162.25
             }
         },
@@ -72,6 +75,7 @@
             "scaleInEditor": 1
         },
         "map.tmj#WA_Decoration": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "map.tmj#WA_Exterior": {
