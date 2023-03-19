@@ -769,8 +769,8 @@
                  "type":"area",
                  "visible":true,
                  "width":83,
-                 "x":351,
-                 "y":475
+                 "x":799,
+                 "y":58
                 }, 
                 {
                  "height":96,
@@ -819,7 +819,7 @@
                  "text":
                     {
                      "halign":"right",
-                     "text":"202303192117",
+                     "text":"202303192206",
                      "wrap":true
                     },
                  "type":"",
