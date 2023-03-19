@@ -62,8 +62,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 610,
-                "y": 152.25
+                "x": 481,
+                "y": 162.75
             }
         },
         "map.tmj#Icons": {
@@ -104,12 +104,13 @@
     },
     "last.imagePath": "C:/Users/n1LWe/Pictures",
     "openFiles": [
-        "map.tmj"
+        "map.tmj",
+        "conference.tmj"
     ],
     "project": "office.tiled-project",
     "recentFiles": [
-        "map.tmj",
-        "conference.tmj"
+        "conference.tmj",
+        "map.tmj"
     ],
     "tileset.embedInMap": true,
     "tileset.type": 1
