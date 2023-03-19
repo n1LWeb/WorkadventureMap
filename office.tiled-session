@@ -16,8 +16,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 343.5,
-                "y": 100.25
+                "x": 427.5,
+                "y": 117.75
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -62,8 +62,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 481,
-                "y": 162.75
+                "x": 480.5,
+                "y": 162.25
             }
         },
         "map.tmj#Icons": {
@@ -102,7 +102,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/n1LWe/Pictures",
+    "last.imagePath": "C:/Apps/WorkadventureMap/tilesets/icons",
     "openFiles": [
         "map.tmj",
         "conference.tmj"
