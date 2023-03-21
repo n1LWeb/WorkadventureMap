@@ -460,7 +460,7 @@
                  "y":333.75
                 }, 
                 {
-                 "height":99.5,
+                 "height":114.5,
                  "id":27,
                  "name":"lieferando",
                  "properties":[
@@ -488,7 +488,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"202303212142",
+                     "text":"202303212149",
                      "wrap":true
                     },
                  "type":"",
