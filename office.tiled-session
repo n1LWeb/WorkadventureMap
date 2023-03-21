@@ -9,8 +9,8 @@
         },
         "conference.tmj": {
             "expandedGroupLayers": [
-                58,
-                52
+                52,
+                58
             ],
             "expandedObjectLayers": [
                 61,
@@ -19,8 +19,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 384,
-                "y": 223.75
+                "x": 516,
+                "y": 157.75
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -56,18 +56,18 @@
         },
         "map.tmj": {
             "expandedGroupLayers": [
-                55,
+                52,
                 58,
-                52
+                55
             ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 1031,
-                "y": 123.75
+                "x": 513,
+                "y": 398.5
             }
         },
         "map.tmj#Icons": {

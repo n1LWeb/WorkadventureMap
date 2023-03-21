@@ -377,6 +377,109 @@
                  "width":96,
                  "x":256,
                  "y":96
+                }, 
+                {
+                 "height":43,
+                 "id":24,
+                 "name":"jitsiOneOnOne",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"OneOnOne1"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":27.5,
+                 "x":706.5,
+                 "y":145.25
+                }, 
+                {
+                 "height":46,
+                 "id":25,
+                 "name":"jitsiOneOnOne",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"OneOnOne2"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":28.5,
+                 "x":705.5,
+                 "y":239.75
+                }, 
+                {
+                 "height":50,
+                 "id":26,
+                 "name":"jitsiOneOnOne",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"OneOnOne3"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":29.5,
+                 "x":705.5,
+                 "y":333.75
+                }, 
+                {
+                 "height":99.5,
+                 "id":27,
+                 "name":"lieferando",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/lieferando.de\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":158.5,
+                 "x":384.5,
+                 "y":61.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -462,7 +565,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":24,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {

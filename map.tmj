@@ -517,7 +517,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.cde.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-cde.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -549,7 +549,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.kfr.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-kfr.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -581,7 +581,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.mre.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-mre.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -613,7 +613,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.dke.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-dke.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -645,7 +645,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.kzo.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-kzo.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -677,7 +677,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.rva.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-rva.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -709,7 +709,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.swi.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-swi.lxdev01.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -741,7 +741,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
+                         "value":"https:\/\/code.devenv-mlu.lxdev01.neo.onl\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -893,6 +893,28 @@
                  "width":32,
                  "x":896,
                  "y":510
+                }, 
+                {
+                 "height":64.5,
+                 "id":37,
+                 "name":"workspaceMLU",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":28.5,
+                 "x":929.75,
+                 "y":510.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -975,7 +997,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":37,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
