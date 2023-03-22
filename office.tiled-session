@@ -23,8 +23,8 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 249,
-                "y": 112.25
+                "x": 248.5,
+                "y": 111.75
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -68,8 +68,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 929,
-                "y": 202.5
+                "x": 496,
+                "y": 336.5
             }
         },
         "map.tmj#Icons": {
@@ -118,8 +118,8 @@
             "scale": 1,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 860,
-                "y": 262.5
+                "x": 496,
+                "y": 336.5
             }
         },
         "mlu.tmj#WA_Decoration": {
