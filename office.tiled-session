@@ -21,10 +21,10 @@
                 61
             ],
             "scale": 2,
-            "selectedLayer": 15,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 25,
-                "y": 133.75
+                "x": 513.5,
+                "y": 176.25
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -60,9 +60,6 @@
         },
         "map.tmj": {
             "expandedGroupLayers": [
-                52,
-                54,
-                55,
                 58
             ],
             "expandedObjectLayers": [
@@ -71,8 +68,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 684,
-                "y": 287.5
+                "x": 930,
+                "y": 202.5
             }
         },
         "map.tmj#Icons": {
@@ -125,8 +122,8 @@
             "scale": 4,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 939.5,
-                "y": 38.625
+                "x": 1025,
+                "y": 42.375
             }
         },
         "mlu.tmj#WA_Decoration": {

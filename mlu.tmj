@@ -105,7 +105,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office.tmj#from-mlu"
+                         "value":"map.tmj#from-mlu"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -419,7 +419,7 @@
                  "text":
                     {
                      "halign":"right",
-                     "text":"202303222052",
+                     "text":"202303222055",
                      "wrap":true
                     },
                  "type":"",
