@@ -1,5 +1,9 @@
 {
-    "activeFile": "map.tmj",
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mlu.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -13,14 +17,14 @@
                 58
             ],
             "expandedObjectLayers": [
-                61,
-                2
+                2,
+                61
             ],
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 47.5,
-                "y": 174.25
+                "x": 25.5,
+                "y": 133.75
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -57,17 +61,18 @@
         "map.tmj": {
             "expandedGroupLayers": [
                 52,
-                58,
-                55
+                54,
+                55,
+                58
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 15,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 513,
-                "y": 398.5
+                "x": 676,
+                "y": 315.5
             }
         },
         "map.tmj#Icons": {
@@ -105,18 +110,68 @@
         },
         "map.tmj#WA_User_Interface": {
             "scaleInDock": 1
+        },
+        "mlu.tmj": {
+            "expandedGroupLayers": [
+                52,
+                54,
+                51,
+                55,
+                58
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 767.5,
+                "y": -30.75
+            }
+        },
+        "mlu.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "mlu.tmj#WA_User_Interface": {
+            "scaleInDock": 1
         }
     },
     "last.imagePath": "C:/Apps/WorkadventureMap/tilesets/icons",
     "openFiles": [
+        "conference.tmj",
         "map.tmj",
-        "conference.tmj"
+        "mlu.tmj"
     ],
     "project": "office.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "conference.tmj",
-        "map.tmj"
+        "map.tmj",
+        "mlu.tmj"
     ],
     "tileset.embedInMap": true,
     "tileset.type": 1

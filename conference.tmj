@@ -460,35 +460,13 @@
                  "y":333.75
                 }, 
                 {
-                 "height":114.5,
-                 "id":27,
-                 "name":"lieferando",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/lieferando.de\/"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":158.5,
-                 "x":384.5,
-                 "y":61.75
-                }, 
-                {
                  "height":20.88,
                  "id":28,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "text":"202303212149",
+                     "text":"202303222031",
                      "wrap":true
                     },
                  "type":"",
