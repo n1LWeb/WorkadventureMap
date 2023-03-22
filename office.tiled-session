@@ -21,10 +21,10 @@
                 61
             ],
             "scale": 2,
-            "selectedLayer": 2,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 513.5,
-                "y": 176.25
+                "x": 249.5,
+                "y": 112.25
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -68,7 +68,7 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 930,
+                "x": 929,
                 "y": 202.5
             }
         },
