@@ -23,7 +23,7 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 248.5,
+                "x": 248,
                 "y": 111.75
             }
         },
@@ -60,16 +60,18 @@
         },
         "map.tmj": {
             "expandedGroupLayers": [
+                51,
+                52,
                 58
             ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 1,
-            "selectedLayer": 17,
+            "scale": 4,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 607,
-                "y": 156.5
+                "x": 431,
+                "y": 374.625
             }
         },
         "map.tmj#Icons": {

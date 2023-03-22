@@ -429,28 +429,6 @@
                  "y":3.56
                 }, 
                 {
-                 "height":55,
-                 "id":41,
-                 "name":"googleCal",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/calendar.google.com\/"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":47.25,
-                 "x":915,
-                 "y":472
-                }, 
-                {
                  "height":49.25,
                  "id":42,
                  "name":"zoho mail",
@@ -463,7 +441,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/mail.zoho.com\/"
+                         "value":"https:\/\/mail.neo.onl\/"
                         }],
                  "rotation":0,
                  "type":"area",
