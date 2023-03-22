@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mlu.tmj",
+    "activeFile": "conference.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -23,7 +23,7 @@
             "scale": 2,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 249.5,
+                "x": 249,
                 "y": 112.25
             }
         },
@@ -110,20 +110,16 @@
         },
         "mlu.tmj": {
             "expandedGroupLayers": [
-                52,
-                54,
-                51,
-                55,
                 58
             ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 4,
+            "scale": 1,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 1025,
-                "y": 42.375
+                "x": 860,
+                "y": 262.5
             }
         },
         "mlu.tmj#WA_Decoration": {
@@ -166,9 +162,9 @@
     "project": "office.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "conference.tmj",
+        "mlu.tmj",
         "map.tmj",
-        "mlu.tmj"
+        "conference.tmj"
     ],
     "tileset.embedInMap": true,
     "tileset.type": 1
