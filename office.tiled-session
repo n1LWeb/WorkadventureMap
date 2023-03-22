@@ -68,8 +68,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 496,
-                "y": 336.5
+                "x": 607,
+                "y": 156.5
             }
         },
         "map.tmj#Icons": {
@@ -110,6 +110,9 @@
         },
         "mlu.tmj": {
             "expandedGroupLayers": [
+                54,
+                51,
+                52,
                 58
             ],
             "expandedObjectLayers": [
@@ -118,8 +121,8 @@
             "scale": 1,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 496,
-                "y": 336.5
+                "x": 839,
+                "y": 303.5
             }
         },
         "mlu.tmj#WA_Decoration": {
