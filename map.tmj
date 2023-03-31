@@ -593,7 +593,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-cde.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.cde.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -625,7 +625,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-kfr.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.kfr.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -657,7 +657,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-mre.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.mre.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -689,7 +689,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-dke.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.dke.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -721,7 +721,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-kzo.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.kzo.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -753,7 +753,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-rva.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.rva.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -785,7 +785,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-swi.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.swi.dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -817,7 +817,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.devenv-mlu.lxdev01.neo.onl\/"
+                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
                         }],
                  "rotation":0,
                  "type":"area",
