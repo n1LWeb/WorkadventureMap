@@ -593,7 +593,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.cde.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -625,7 +625,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.kfr.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -657,7 +657,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.mre.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -689,7 +689,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.dke.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -721,7 +721,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.kzo.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -753,7 +753,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.rva.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -785,7 +785,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.swi.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -817,7 +817,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -839,7 +839,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/app.conceptboard.com\/board\/5f9y-f70q-suku-diid-k3m7#"
+                         "value":"https:\/\/app.conceptboard.com\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -895,7 +895,7 @@
                  "text":
                     {
                      "halign":"right",
-                     "text":"202303222123",
+                     "text":"202304251600",
                      "wrap":true
                     },
                  "type":"",
@@ -983,7 +983,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/code.mlu.dev.neo.onl\/"
+                         "value":"https:\/\/dev.neo.onl\/"
                         }],
                  "rotation":0,
                  "type":"area",
